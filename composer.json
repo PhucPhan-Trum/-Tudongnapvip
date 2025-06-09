@@ -1,0 +1,8 @@
+{
+  "name": "thesieure/card-api",
+  "description": "Tool nạp thẻ Thesieure tự động",
+  "require": {},
+  "scripts": {
+    "start": "php -S 0.0.0.0:10000 -t public"
+  }
+}
